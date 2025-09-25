@@ -9,3 +9,9 @@ Look for potential vulnerabiliies that pose a risk to the system
 
 step3:
 download the scan report, find mitigating strategies for the found vulnerabilities
+
+images included:
+1. Dashboard.png
+2. Vulnerabilities_list.png
+3. scan_summary.png
+4. smb_vulnerability.png
