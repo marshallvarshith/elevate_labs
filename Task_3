@@ -1,0 +1,11 @@
+Basic Vulnerability Scan on PC
+
+Step 1: 
+Install Nessus - vulnerability scanner by tenable.
+setup in your local machine, create an admin account and run a scan on localhost.
+
+step2:
+Look for potential vulnerabiliies that pose a risk to the system
+
+step3:
+download the scan report, find mitigating strategies for the found vulnerabilities
