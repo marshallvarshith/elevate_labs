@@ -11,7 +11,7 @@ step3:
 download the scan report, find mitigating strategies for the found vulnerabilities
 
 images included:
-1. Dashboard.png
-2. Vulnerabilities_list.png
-3. scan_summary.png
-4. smb_vulnerability.png
+1. t3_Dashboard.png
+2. t3_Vulnerabilities_list.png
+3. t3_scan_summary.png
+4. t3_smb_vulnerability.png
