@@ -30,3 +30,10 @@ cmd: telnet localhost 23
 Troubleshoot: for connection being refused in port 22
 * intall ssh server using (sudo apt install ssh)
 * sudo systemctl start ssh - to start the ssh service in your local machine
+
+images included:
+
+1. t4_denied_tcp_23.png
+2. t4_firewall_rule_update.png
+3. t4_firewall_status.png
+4. t4_ssh_connection.png
