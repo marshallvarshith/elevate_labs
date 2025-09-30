@@ -19,4 +19,8 @@ Tools like password strength checker and password security meter helps you to me
    * bruteforce attack
    * dictionary attack
    * phishing 
-   
+
+files included:
+
+1. t6_password_lists.txt
+2. t6_password_strength.checker.png
