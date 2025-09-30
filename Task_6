@@ -1,0 +1,22 @@
+Checking Password strength and understanding its importance
+
+1. Having a strong password is very much important to keep your data safe from potential threat actors, there are several exaples why you need to keep your password safe and secure.
+Tools like password strength checker and password security meter helps you to measure the level of strength your password consists.
+
+2. recommendations to a strong password
+  * atleast use 1 upper case
+  * atleast use 1 lower case
+  * atleast 1 special character
+  * atleast 1 numerical
+  * password that is related to your life or day or date
+  * never keep your birthday, ph no as your password
+
+3. use password manager tools like bitwarden or google authenticator
+
+4. use passkeys and enable multi- factor authentication
+
+5. common password attacks
+   * bruteforce attack
+   * dictionary attack
+   * phishing 
+   
